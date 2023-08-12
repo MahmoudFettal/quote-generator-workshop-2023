@@ -9,3 +9,5 @@ function getQuoteLocal() {
       author.innerHTML = quoteData.author;
     });
 }
+
+getQuoteLocal();
