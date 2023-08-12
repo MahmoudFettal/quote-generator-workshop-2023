@@ -20,6 +20,14 @@ main {
   max-width: 756px;
 }
 
+.blockquote h1 {
+  background-image: url("https://images.unsplash.com/photo-1524721696987-b9527df9e512?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80");
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+}
+
 .blockquote h2 {
   font-weight: 400;
   font-size: 20px;
